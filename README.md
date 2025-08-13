@@ -56,3 +56,4 @@ I can do dance, sing, design, develop, deploy and distribute 🔥
 ![Static Badge](https://img.shields.io/badge/Cypress-latest?style=for-the-badge&logo=Cypress&logoColor=ffffff&color=007780)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?t3fox=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
