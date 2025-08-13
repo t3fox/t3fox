@@ -1,7 +1,7 @@
 ##  This is my code space 🥷🛸
 I can do dance, sing, design, develop, deploy and distribute 🔥
 
-![terminal](https://github.com/user-attachments/assets/751d8ff7-73c7-4324-9790-74d9c75dc50e)
+![terminal](https://github.com/user-attachments/assets/6de7af70-c98a-40bd-9ae2-33aba4a9e9d3)
 
 
 ### 🚀🛠️ Using tools how...
