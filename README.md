@@ -36,6 +36,7 @@ I can do dance, sing, design, develop, deploy and distribute 🔥
 ![Static Badge](https://img.shields.io/badge/Android-latest?style=for-the-badge&logo=Android%20Studio&logoColor=ffffff&color=669933)
 ![Static Badge](https://img.shields.io/badge/iOS-latest?style=for-the-badge&logo=Xcode&logoColor=ffffff&color=000000)
 ![Static Badge](https://img.shields.io/badge/ngrok-latest?style=for-the-badge&logo=ngrok&logoColor=ffffff&color=150649)
+![Static Badge](https://img.shields.io/badge/NGINX-latest?style=for-the-badge&logo=NGINX&logoColor=ffffff&color=009639)
 ![Static Badge](https://img.shields.io/badge/Postman-latest?style=for-the-badge&logo=Postman&logoColor=ffffff&color=FF6C37)
 ![Static Badge](https://img.shields.io/badge/Express-latest?style=for-the-badge&logo=Express&logoColor=ffffff&color=000000)
 ![Static Badge](https://img.shields.io/badge/FastAPI-latest?style=for-the-badge&logo=FastAPI&logoColor=ffffff&color=009485)
