@@ -1,16 +1,57 @@
-## Hi there 👋
+##  This is my code space 🥷🛸
+I can do dance, sing, design, develop, deploy and distribute 🔥
 
-<!--
-**t3fox/t3fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![terminal](https://github.com/user-attachments/assets/751d8ff7-73c7-4324-9790-74d9c75dc50e)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀🛠️ Using tools how...
+
+![Static Badge](https://img.shields.io/badge/Node.js-latest?style=for-the-badge&logo=Node.js&logoColor=ffffff&color=6cc24a)
+![Static Badge](https://img.shields.io/badge/python3-latest?style=for-the-badge&logo=Python&logoColor=ffde57&color=4584b6)
+![Static Badge](https://img.shields.io/badge/JavaScript-latest?style=for-the-badge&logo=JavaScript&logoColor=F0DB4F&color=323330)
+![Static Badge](https://img.shields.io/badge/Graphql-latest?style=for-the-badge&logo=GraphQL&logoColor=e535ab&color=161e26)
+![Static Badge](https://img.shields.io/badge/Typescript-latest?style=for-the-badge&logo=TypeScript&logoColor=ffffff&color=007acc)
+![Static Badge](https://img.shields.io/badge/PHP-latest?style=for-the-badge&logo=PHP&logoColor=ffffff&color=232531)
+![Static Badge](https://img.shields.io/badge/BASH%20SCRIPT-latest?style=for-the-badge&logo=GNU%20Bash&logoColor=ffffff&color=000000)
+![Static Badge](https://img.shields.io/badge/HTML5-latest?style=for-the-badge&logo=HTML5&logoColor=ffffff&color=e34c26)
+![Static Badge](https://img.shields.io/badge/CSS3-latest?style=for-the-badge&logo=CSS&logoColor=ffffff&color=2965f1)
+![Static Badge](https://img.shields.io/badge/npm-latest?style=for-the-badge&logo=npm&logoColor=ffffff&color=CC3534)
+![Static Badge](https://img.shields.io/badge/Pypi-latest?style=for-the-badge&logo=PyPI&logoColor=006dad&color=FFD242)
+![Static Badge](https://img.shields.io/badge/Anaconda-latest?style=for-the-badge&logo=Anaconda&logoColor=ffffff&color=43B049)
+![Static Badge](https://img.shields.io/badge/nvm-latest?style=for-the-badge&logo=nvm&logoColor=f5bf04&color=000000)
+![Static Badge](https://img.shields.io/badge/jwt-latest?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=ffffff&color=f5025c)
+![Static Badge](https://img.shields.io/badge/Yaml-latest?style=for-the-badge&logo=YAML&logoColor=ffffff&color=432687)
+![Static Badge](https://img.shields.io/badge/Cryptography-latest?style=for-the-badge&logo=Let's%20Encrypt&logoColor=ffffff&color=32598c)
+![Static Badge](https://img.shields.io/badge/GIT-latest?style=for-the-badge&logo=GIT&logoColor=ffffff&color=f05133)
+![Static Badge](https://img.shields.io/badge/Terminal-latest?style=for-the-badge&logo=GNOME%20Terminal&logoColor=ffffff&color=000000)
+![Static Badge](https://img.shields.io/badge/Docker-latest?style=for-the-badge&logo=Docker&logoColor=ffffff&color=1d63ed)
+![Static Badge](https://img.shields.io/badge/Namecheap-latest?style=for-the-badge&logo=Namecheap&logoColor=ffffff&color=FE5803)
+![Static Badge](https://img.shields.io/badge/Google%20Cloud-latest?style=for-the-badge&logo=Google%20Cloud&logoColor=ffffff&color=4285F4)
+![Static Badge](https://img.shields.io/badge/Heroku-latest?style=for-the-badge&logo=Heroku&logoColor=ffffff&color=5f488a)
+![Static Badge](https://img.shields.io/badge/Netlify-latest?style=for-the-badge&logo=Netlify&logoColor=ffffff&color=000000)
+![Static Badge](https://img.shields.io/badge/Pusher-latest?style=for-the-badge&logo=Pusher&logoColor=ffffff&color=300d4f)
+![Static Badge](https://img.shields.io/badge/Kubernetes-latest?style=for-the-badge&logo=Kubernetes&logoColor=ffffff&color=326CE5)
+![Static Badge](https://img.shields.io/badge/Redis-latest?style=for-the-badge&logo=Redis&logoColor=ffffff&color=A41E11)
+![Static Badge](https://img.shields.io/badge/Firebase-latest?style=for-the-badge&logo=Firebase&logoColor=ffffff&color=f5820d)
+![Static Badge](https://img.shields.io/badge/Android-latest?style=for-the-badge&logo=Android%20Studio&logoColor=ffffff&color=669933)
+![Static Badge](https://img.shields.io/badge/iOS-latest?style=for-the-badge&logo=Xcode&logoColor=ffffff&color=000000)
+![Static Badge](https://img.shields.io/badge/ngrok-latest?style=for-the-badge&logo=ngrok&logoColor=ffffff&color=150649)
+![Static Badge](https://img.shields.io/badge/Postman-latest?style=for-the-badge&logo=Postman&logoColor=ffffff&color=FF6C37)
+![Static Badge](https://img.shields.io/badge/Express-latest?style=for-the-badge&logo=Express&logoColor=ffffff&color=000000)
+![Static Badge](https://img.shields.io/badge/FastAPI-latest?style=for-the-badge&logo=FastAPI&logoColor=ffffff&color=009485)
+![Static Badge](https://img.shields.io/badge/Flask-latest?style=for-the-badge&logo=Flask&logoColor=ffffff&color=000000)
+![Static Badge](https://img.shields.io/badge/MongoDB-latest?style=for-the-badge&logo=MongoDB&logoColor=ffffff&color=00684A)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-latest?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff&color=336791)
+![Static Badge](https://img.shields.io/badge/Apollo%20Server-latest?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=ffffff&color=%233F20BA)
+![Static Badge](https://img.shields.io/badge/Angular-latest?style=for-the-badge&logo=Angular&logoColor=ffffff&color=c3002f)
+![Static Badge](https://img.shields.io/badge/Vue.js-latest?style=for-the-badge&logo=Vue.js&logoColor=ffffff&color=42b883)
+![Static Badge](https://img.shields.io/badge/ionic-latest?style=for-the-badge&logo=ionic&logoColor=ffffff&color=498AFF)
+![Static Badge](https://img.shields.io/badge/capacitorjs-latest?style=for-the-badge&logo=Capacitor&logoColor=ffffff&color=15a1ff)
+![Static Badge](https://img.shields.io/badge/Progressive%20Web%20App-latest?style=for-the-badge&logo=PWA&logoColor=ffffff&color=8c64b4)
+![Static Badge](https://img.shields.io/badge/Socket.io-latest?style=for-the-badge&logo=Socket.io&logoColor=ffffff&color=000000)
+![Static Badge](https://img.shields.io/badge/OWASP-latest?style=for-the-badge&logo=OWASP&logoColor=ffffff&color=000000)
+![Static Badge](https://img.shields.io/badge/quicktype-latest?style=for-the-badge&logo=quicktype&logoColor=ffffff&color=05b3a4)
+![Static Badge](https://img.shields.io/badge/Selenium%20Web%20Driver-latest?style=for-the-badge&logo=Selenium&logoColor=ffffff&color=43b02a)
+![Static Badge](https://img.shields.io/badge/Cypress-latest?style=for-the-badge&logo=Cypress&logoColor=ffffff&color=007780)
+
+
